@@ -26,3 +26,16 @@ SHA256: 7c7f935465bf46a96cd504665fa12fb285f9f7574e626c68b58711147fc3e522
 Priority: optional
 Description: Apenas um teste com documentação (atualização)
 
+Package: teste
+Version: 0.3
+Architecture: all
+Essential: no
+Maintainer: Rodolfo Dirack
+Depends: bash
+Filename: ./teste_0.3_all.deb
+Size: 2784
+MD5sum: d2075cf027114fff1c29f6e2f40619bf
+SHA1: 2ea439bc0b14194cca4d237a9d74c9d5f36b0bb0
+SHA256: 4e24fcf20f3d1b9bf86cfcacd47df27868afb4a079f22ab31f15e19d410efee2
+Priority: optional
+Description: Apenas um teste com documentação (github)
