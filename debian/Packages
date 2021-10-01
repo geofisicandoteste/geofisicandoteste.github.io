@@ -1,0 +1,28 @@
+Package: teste
+Version: 0.1
+Architecture: all
+Essential: no
+Maintainer: Rodolfo Dirack
+Depends: bash
+Filename: ./teste_0.1_all.deb
+Size: 2756
+MD5sum: 2369d1a030904c534850a14ce38e8395
+SHA1: b1b3e30fc2cbd6ec7b2a19524e27d586f6f77ce2
+SHA256: dd0dcef0f464b7a7f6c273316ca5de5b36ac6f309cbe6157c054f2ec01b7858b
+Priority: optional
+Description: Apenas um teste com documentação
+
+Package: teste
+Version: 0.2
+Architecture: all
+Essential: no
+Maintainer: Rodolfo Dirack
+Depends: bash
+Filename: ./teste_0.2_all.deb
+Size: 2780
+MD5sum: 9c17e723d3495c868f95543d1f2f8b6f
+SHA1: 7b1aff5c3062f1c2eebab6738ef9807289625e58
+SHA256: 7c7f935465bf46a96cd504665fa12fb285f9f7574e626c68b58711147fc3e522
+Priority: optional
+Description: Apenas um teste com documentação (atualização)
+
